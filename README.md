@@ -14,10 +14,10 @@ This repository provides an app to control a cloud photo storage.
 ##### Linux
 
 ```console
-user@workstation:<some-directory>$ git clone https://github.com/ramirsultanov/cloudphoto.git
+user@workstation:<some-directory>$ git clone https://github.com/turaso/cpa.git
 user@workstation:<some-directory>$ mkdir build/
 user@workstation:<some-directory>$ cd build/
-user@workstation:<some-directory>$ cmake -DCMAKE_BUILD_TYPE=Release ../cloudphoto
+user@workstation:<some-directory>$ cmake -DCMAKE_BUILD_TYPE=Release ../cpa
 user@workstation:<some-directory>$ sudo make -j4 install
 ```
 
